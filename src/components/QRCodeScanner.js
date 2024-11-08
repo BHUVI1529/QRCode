@@ -72,6 +72,9 @@ const QRCodeScanner = () => {
                         <QrReader
                             onResult={handleScan}
                             onError={handleError}
+                             scannerOptions={{
+                                facingMode: 'environment', // Use the back camera
+                            }}
                             style={{
                                 width: '100%',
                                 height: '100%',
