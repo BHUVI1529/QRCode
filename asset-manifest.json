@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/QRCode/static/css/main.7d2a1c34.css",
-    "main.js": "/QRCode/static/js/main.ef23fe4a.js",
+    "main.js": "/QRCode/static/js/main.c0605ca2.js",
     "static/media/apptechknowlogo.jpeg": "/QRCode/static/media/apptechknowlogo.a4c8a7717ac5cb9fd7ad.jpeg",
     "index.html": "/QRCode/index.html",
     "main.7d2a1c34.css.map": "/QRCode/static/css/main.7d2a1c34.css.map",
-    "main.ef23fe4a.js.map": "/QRCode/static/js/main.ef23fe4a.js.map"
+    "main.c0605ca2.js.map": "/QRCode/static/js/main.c0605ca2.js.map"
   },
   "entrypoints": [
     "static/css/main.7d2a1c34.css",
-    "static/js/main.ef23fe4a.js"
+    "static/js/main.c0605ca2.js"
   ]
 }
