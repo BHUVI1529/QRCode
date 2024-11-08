@@ -48,7 +48,7 @@ const Attendance = () => {
 
         try {
             const response = await axios.post(
-                'https://qr-code-eight-ashy.vercel.app/api/attendance/add',
+                'https://attendance-08kp.onrender.com/api/attendance/add',
                 payload,
                 {
                     headers: {
