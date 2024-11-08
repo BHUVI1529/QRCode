@@ -48,7 +48,7 @@ const Attendance = () => {
 
         try {
             const response = await axios.post(
-                'https://attendance-08kp.onrender.com/api/attendance/add',
+                'https://mark-attendance.onrender.com/api/attendance/add',
                 payload,
                 {
                     headers: {
