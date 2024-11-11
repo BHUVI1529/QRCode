@@ -72,6 +72,8 @@ const QRCodeScanner = () => {
                         <QrReader
                             onResult={handleScan}
                             onError={handleError}
+                             key="environment"
+                            constraints={{ facingMode: 'environment' }}
                             style={{
                                 width: '100%',
                                 height: '100%',
